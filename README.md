@@ -121,6 +121,8 @@ Initially, the Streamlit app showed:
 - Balanced precision and recall across all classes
 - No class collapse
 - Strong generalization to unseen screenshots
+<img width="1011" height="438" alt="metrics" src="https://github.com/user-attachments/assets/7fdb1723-5fdf-48df-93d4-697806485c14" />
+
 
 The final confusion matrix shows clear diagonal dominance with minimal misclassification.
 <img width="1008" height="809" alt="confusion_matrix" src="https://github.com/user-attachments/assets/3af38ddf-8501-41a2-9aaa-6c0f6e459199" />
@@ -136,7 +138,7 @@ A simple Streamlit UI was built to:
 - Show probability distribution across all classes
 
 The app uses the final trained EfficientNet model with correct preprocessing.
-
+https://video-game-identification.streamlit.app/
 ---
 
 ## Tech Stack
